@@ -1,0 +1,23 @@
+{
+  "name": "divan",
+  "version": "1.0.0",
+  "description": "This is nodejs wrapper for couchdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munichlinux/divan.git"
+  },
+  "keywords": [
+    "nodejs",
+    "couchdb"
+  ],
+  "author": "munichlinux@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/munichlinux/divan/issues"
+  },
+  "homepage": "https://github.com/munichlinux/divan#readme"
+}
